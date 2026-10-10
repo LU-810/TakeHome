@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="4616" viewBox="0 0 1500 4616" font-family="Microsoft YaHei, SimHei, Arial, sans-serif">
+<rect width="100%" height="100%" fill="white"/>
+<path d="M394.7368421052631,394.7363157894715 L394.7368421052631,184.21052631579005 L1315.7894736842104,184.21052631579005 L1315.7894736842104,1289.4736842105262 L815.7894736842105,1289.4736842105262 L815.7894736842105,4431.578421052632 L184.21052631578945,4431.578421052632 L184.21052631578945,394.7363157894715 L394.7368421052631,394.7363157894715 Z" fill="#f7f7f7" stroke="#111" stroke-width="3" stroke-linejoin="round"/>
+<path d="M947.4 963.2 L947.4 594.7 L1315.8 594.7 L1315.8 963.2 Z" fill="#ffd54f" fill-opacity="0.40" stroke="#e69500" stroke-width="1.5" stroke-dasharray="8,6"/>
+<path d="M826.3 1515.8 L184.2 1515.8 L184.2 1094.7 L826.3 1094.7 Z" fill="#82b1ff" fill-opacity="0.30" stroke="#1f6fb2" stroke-width="1.5" stroke-dasharray="8,6"/>
+<line x1="1315.7894736842104" y1="594.7368421052633" x2="1315.7894736842104" y2="963.1578947368421" stroke="#d32f2f" stroke-width="6" stroke-linecap="round"/>
+<path d="M1315.8 963.2 A368.4 368.4 0 0 1.0 947.4 594.7" fill="none" stroke="#d32f2f" stroke-width="1.8" stroke-dasharray="6,5"/>
+<path d="M826.3 394.7 L184.2 394.7 L184.2 1094.7 L826.3 1094.7 Z" fill="#cfe8ff" stroke="#1f6fb2" stroke-width="2.5"/>
+<text x="505.3" y="738.7" text-anchor="middle" font-size="20" fill="#111" font-weight="bold">fridge</text>
+<text x="505.3" y="760.7" text-anchor="middle" font-size="15" fill="#333">1220×1330  0.0°</text>
+<path d="M184.2 1536.8 L184.2 2063.2 L394.7 2063.2 L394.7 1536.8 Z" fill="#d9f2d9" stroke="#2e7d32" stroke-width="2.5"/>
+<text x="289.5" y="1794.0" text-anchor="middle" font-size="20" fill="#111" font-weight="bold">shelf-1</text>
+<text x="289.5" y="1816.0" text-anchor="middle" font-size="15" fill="#333">1000×400  90.0°</text>
+<path d="M184.2 2063.2 L184.2 2589.5 L394.7 2589.5 L394.7 2063.2 Z" fill="#d9f2d9" stroke="#2e7d32" stroke-width="2.5"/>
+<text x="289.5" y="2320.3" text-anchor="middle" font-size="20" fill="#111" font-weight="bold">shelf-2</text>
+<text x="289.5" y="2342.3" text-anchor="middle" font-size="15" fill="#333">1000×400  90.0°</text>
+<path d="M184.2 2589.5 L184.2 3115.8 L394.7 3115.8 L394.7 2589.5 Z" fill="#d9f2d9" stroke="#2e7d32" stroke-width="2.5"/>
+<text x="289.5" y="2846.6" text-anchor="middle" font-size="20" fill="#111" font-weight="bold">shelf-3</text>
+<text x="289.5" y="2868.6" text-anchor="middle" font-size="15" fill="#333">1000×400  90.0°</text>
+<path d="M184.2 3115.8 L184.2 3642.1 L394.7 3642.1 L394.7 3115.8 Z" fill="#d9f2d9" stroke="#2e7d32" stroke-width="2.5"/>
+<text x="289.5" y="3372.9" text-anchor="middle" font-size="20" fill="#111" font-weight="bold">shelf-4</text>
+<text x="289.5" y="3394.9" text-anchor="middle" font-size="15" fill="#333">1000×400  90.0°</text>
+<path d="M184.2 3642.1 L184.2 4168.4 L394.7 4168.4 L394.7 3642.1 Z" fill="#d9f2d9" stroke="#2e7d32" stroke-width="2.5"/>
+<text x="289.5" y="3899.3" text-anchor="middle" font-size="20" fill="#111" font-weight="bold">shelf-5</text>
+<text x="289.5" y="3921.3" text-anchor="middle" font-size="15" fill="#333">1000×400  90.0°</text>
+<path d="M500.0 4221.1 L184.2 4221.1 L184.2 4431.6 L500.0 4431.6 Z" fill="#e8dcff" stroke="#6a3fa0" stroke-width="2.5"/>
+<text x="342.1" y="4320.3" text-anchor="middle" font-size="20" fill="#111" font-weight="bold">overShelf-1</text>
+<text x="342.1" y="4342.3" text-anchor="middle" font-size="15" fill="#333">600×400  0.0°</text>
+<path d="M815.8 4221.1 L500.0 4221.1 L500.0 4431.6 L815.8 4431.6 Z" fill="#e8dcff" stroke="#6a3fa0" stroke-width="2.5"/>
+<text x="657.9" y="4320.3" text-anchor="middle" font-size="20" fill="#111" font-weight="bold">overShelf-2</text>
+<text x="657.9" y="4342.3" text-anchor="middle" font-size="15" fill="#333">600×400  0.0°</text>
+<path d="M605.3 3894.7 L605.3 4210.5 L815.8 4210.5 L815.8 3894.7 Z" fill="#e8dcff" stroke="#6a3fa0" stroke-width="2.5"/>
+<text x="710.5" y="4046.6" text-anchor="middle" font-size="20" fill="#111" font-weight="bold">overShelf-3</text>
+<text x="710.5" y="4068.6" text-anchor="middle" font-size="15" fill="#333">600×400  90.0°</text>
+<text x="20" y="34" font-size="26" font-weight="bold" fill="#111">example3  摆放结果：可行</text>
+<text x="20" y="60" font-size="15" fill="#555">门宽 N=700mm，内开门（禁放区 N×N）；蓝虚线=冰箱开门区 800mm</text>
+</svg>

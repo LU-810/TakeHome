@@ -1,0 +1,96 @@
+{
+  "feasible": true,
+  "source": "example2.json",
+  "doorWidth": 700,
+  "doorOpenInward": false,
+  "placements": [
+    {
+      "item": "fridge",
+      "type": "fridge",
+      "length": 1220,
+      "width": 1330,
+      "center": [
+        30931.39,
+        32650.03
+      ],
+      "angleDeg": 90
+    },
+    {
+      "item": "shelf-1",
+      "type": "shelf",
+      "length": 1000,
+      "width": 400,
+      "center": [
+        31396.39,
+        34470.03
+      ],
+      "angleDeg": 90
+    },
+    {
+      "item": "shelf-2",
+      "type": "shelf",
+      "length": 1000,
+      "width": 400,
+      "center": [
+        29893.39,
+        34770.03
+      ],
+      "angleDeg": 0
+    },
+    {
+      "item": "shelf-3",
+      "type": "shelf",
+      "length": 1000,
+      "width": 400,
+      "center": [
+        30996.39,
+        34470.03
+      ],
+      "angleDeg": 90
+    },
+    {
+      "item": "shelf-4",
+      "type": "shelf",
+      "length": 1000,
+      "width": 400,
+      "center": [
+        30593.39,
+        34470.03
+      ],
+      "angleDeg": 90
+    },
+    {
+      "item": "overShelf-1",
+      "type": "over_shelf",
+      "length": 600,
+      "width": 400,
+      "center": [
+        29193.39,
+        32300.03
+      ],
+      "angleDeg": 90
+    },
+    {
+      "item": "overShelf-2",
+      "type": "over_shelf",
+      "length": 600,
+      "width": 400,
+      "center": [
+        29193.39,
+        32900.03
+      ],
+      "angleDeg": 90
+    },
+    {
+      "item": "overShelf-3",
+      "type": "over_shelf",
+      "length": 600,
+      "width": 400,
+      "center": [
+        29193.39,
+        34670.03
+      ],
+      "angleDeg": 90
+    }
+  ]
+}
