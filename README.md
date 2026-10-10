@@ -120,3 +120,6 @@ java -cp out com.juling.packing.Main ".."
 - 冰箱占左上角、正面留 800；离地架沉底；货架补右侧。
 
 四个例子均可行（`feasible=true`），且可达性图中没有任何被摆死的通道。详细 SVG 与可达性图见 `result/` 与 `solution/preview/`。
+
+
+代码在solution里面，图片在运行控制台有具体说明
